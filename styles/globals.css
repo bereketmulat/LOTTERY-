@@ -1,0 +1,86 @@
+.home {
+  font-family: "GFS Didot", serif;
+  background-image: url("https://cit.shorthandstories.com/dubai--hub/assets/G75woKWOPL/test-2-det_burj-khalifa_new-year-1-2560x1708.jpg");
+  background-size: cover;
+  height: 1000px;
+  width: auto;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home a {
+  color: white;
+  border: 2px solid white;
+  background-color: black;
+  border-radius: 5px;
+  padding-left: 30px;
+}
+
+nav,ul,li,a {
+  color: white;
+  display: flex;
+  justify-content: center;
+  padding-right: 30px;
+}
+
+.about {
+  font-family: "GFS Didot", serif;
+  background-image: url("https://fastly.4sqi.net/img/general/600x600/485026954_11v79aPEPvA0Uem1WK27WzFxqW2vlskCgsh-tboHyvk.jpg");
+  background-size: cover;
+  height: 1400px;
+  width: auto;
+  
+}
+
+.AboutTheCity {
+  text-align: justify;
+  color: white;
+  padding: 100px;
+  padding-bottom: 50px;
+}
+
+
+
+.AboutTheCity h1{
+  text-align: center;
+}
+
+
+.PopularAttractions {
+  text-align: center;
+  color: white;
+  padding: 100px;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.pictures {
+  display: flex;
+  justify-content: space-around;
+}
+
+.cityCard{
+
+  justify-content: space-between;
+  display: flex;
+  color: white;
+  padding: 100px;
+  padding-bottom:10px ;
+  padding-top:10px ;
+
+}
+
+
+.Attractionpictures1 img,.Attractionpictures2 img ,.Attractionpictures3 img {
+  width: 300px;   
+  height: 200px;  
+
+}
+
+
+.Attractionpictures1 p,.Attractionpictures2 p ,.Attractionpictures3 p{
+  width: 300px;     
+}
